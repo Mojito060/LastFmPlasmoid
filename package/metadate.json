@@ -1,0 +1,22 @@
+{
+  "KPlugin": {
+    "Authors": [
+      {
+        "Email": "leanderwagener@gmail.com",
+        "Name": "Leander Wagener"
+      }
+    ],
+    "Category": "System Information",
+    "Description": "A widget to display Last.fm stats",
+    "Icon": "gnome-music",
+    "Id": "org.kde.plasma.lastfmstats",
+    "Name": "Last.fm Plasmoid",
+    "ServiceTypes": [
+      "Plasma/Applet"
+    ],
+    "Version": "1",
+    "Website": ""
+  },
+  "X-Plasma-API": "declarativeappletscript",
+  "X-Plasma-MainScript": "ui/main.qml"
+}
